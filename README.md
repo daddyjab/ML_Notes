@@ -4,7 +4,7 @@ This repository contains selected notes and code snippets for Machine Learning (
 # Technologies Used
 
 * Python, Jupyter Notebook
-* Machine Learning, Sci-Kit Learn
+* Machine Learning, Sci-Kit Learn, Dataset Generation, Regression, Classification
 * Matplotlib
 
 # Reference
@@ -29,7 +29,7 @@ This repository contains selected notes and code snippets for Machine Learning (
     * 6-Decision Trees and Random Forests:<br>
     https://github.com/daddyjab/ML_Notes/blob/master/6-Decision%20Trees%20and%20Random%20Forests.ipynb 
 
-# Visualizations:
+# Visualizations
 
 | Figure: 1-Dataset Generation and Basic Linear Regression - Jupyter Notebook |
 |----------|
