@@ -1,5 +1,5 @@
 # Machine Learning_Notes
-This repository contains selected notes and code snippets for Machine Learning (supervised, unsupervised)
+This repository contains selected notes and code snippets for Machine Learning (supervised, unsupervised) that I have created or collected and enhanced.
 
 # Technologies Used
 
