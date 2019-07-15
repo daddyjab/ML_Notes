@@ -35,6 +35,7 @@ This repository contains selected notes and code snippets for Machine Learning (
 |----------|
 | ![Figure: 1-Dataset Generation and Basic Linear Regression is Loading...](docs/1-Dataset_Generation_and_Basic_Linear_Regression.png "Figure 1: 1-Dataset Generation and Basic Linear Regression - Jupyter Notebook") |
 
+
 | Figure: 2-Multiple Linear Regression - Jupyter Notebook |
 |----------|
 | ![Figure: 2-Multiple Linear Regression is Loading...](docs/2-Multiple_Linear_Regression-1.png "Figure: 2-Multiple Linear Regression - Jupyter Notebook") |
@@ -46,11 +47,13 @@ This repository contains selected notes and code snippets for Machine Learning (
 | ![Figure: 3-Encoding Categorical Data, Scaling, and Normalization is Loading...](docs/3-Encoding_Categorical_Data,_Scaling,_and_Normalization-1.png "Figure: 3-Encoding Categorical Data, Scaling, and Normalization - Jupyter Notebook") |
 | ![Figure: 3-Encoding Categorical Data, Scaling, and Normalization is Loading...](docs/3-Encoding_Categorical_Data,_Scaling,_and_Normalization-2.png "Figure: 3-Encoding Categorical Data, Scaling, and Normalization - Jupyter Notebook") |
 
+
 | Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet - Jupyter Notebook |
 |----------|
 | ![Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet is Loading...](docs/4-Linear_Models_for_Regression-LinearRegression,_Lasso,_Ridge,_ElasticNet-1.png "Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet - Jupyter Notebook") |
 | ![Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet is Loading...](docs/4-Linear_Models_for_Regression-LinearRegression,_Lasso,_Ridge,_ElasticNet-2.png "Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet - Jupyter Notebook") |
 | ![Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet is Loading...](docs/4-Linear_Models_for_Regression-LinearRegression,_Lasso,_Ridge,_ElasticNet-3.png "Figure: 4-Linear Models for Regression-LinearRegression, Lasso, Ridge, ElasticNet - Jupyter Notebook") |
+
 
 | Figure: 5-Linear Models for Classification-Logistic Regression - Jupyter Notebook |
 |----------|
