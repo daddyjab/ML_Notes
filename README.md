@@ -26,8 +26,8 @@ This repository contains selected notes and code snippets for Machine Learning (
     * 5-Linear Models for Classification-Logistic Regression:<br>
     https://github.com/daddyjab/ML_Notes/blob/master/5-Linear%20Models%20for%20Classification-Logistic%20Regression.ipynb 
     
-    * 6-Decision Trees and Random Forests:<br>
-    https://github.com/daddyjab/ML_Notes/blob/master/6-Decision%20Trees%20and%20Random%20Forests.ipynb 
+    * 6-Decision Trees:<br>
+    https://github.com/daddyjab/ML_Notes/blob/master/6-Decision%20Trees.ipynb
 
 # Visualizations
 
