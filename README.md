@@ -59,3 +59,9 @@ This repository contains selected notes and code snippets for Machine Learning (
 |----------|
 | ![Figure: 5-Linear Models for Classification-Logistic Regression is Loading...](docs/5-Linear_Models_for_Classification-Logistic_Regression-1.png "Figure: 5-Linear Models for Classification-Logistic Regression - Jupyter Notebook") |
 | ![Figure: 5-Linear Models for Classification-Logistic Regression is Loading...](docs/5-Linear_Models_for_Classification-Logistic_Regression-2.png "Figure: 5-Linear Models for Classification-Logistic Regression - Jupyter Notebook") |
+
+
+| Figure: 6-Linear Models for Classification-Decision Trees - Jupyter Notebook |
+|----------|
+| ![Figure: 6-Linear Models for Classification-Decision Trees is Loading...](docs/Figure-Comparison_DecisionTree_vs_LogisticRegression.png "Figure: 6-Linear Models for Classification-Decision Trees - Jupyter Notebook") |
+| ![Table: 6-Linear Models for Classification-Decision Trees is Loading...](docs/Table-Comparison_DecisionTree_vs_LogisticRegression.png "Table: 6-Linear Models for Classification-Decision Trees - Jupyter Notebook") |
