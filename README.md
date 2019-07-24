@@ -4,7 +4,10 @@ This repository contains selected notes and code snippets for Machine Learning (
 # Technologies Used
 
 * Python, Jupyter Notebook
-* Machine Learning, Sci-Kit Learn, Dataset Generation, Regression, Classification
+* Machine Learning, Sci-Kit Learn
+    * Dataset Generation
+    * Regression
+    * Classification
 * Matplotlib
 
 # Reference
