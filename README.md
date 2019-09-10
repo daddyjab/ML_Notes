@@ -44,7 +44,6 @@ This repository contains selected notes and code snippets for Machine Learning (
     * 10-Handwriting Recognition:<br>
     https://github.com/daddyjab/ML_Notes/blob/master/10-Handwriting%20Recognition.ipynb
 
-# Visualizations
 
 # Visualizations
 
