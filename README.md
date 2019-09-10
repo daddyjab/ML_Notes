@@ -32,6 +32,20 @@ This repository contains selected notes and code snippets for Machine Learning (
     * 6-Decision Trees:<br>
     https://github.com/daddyjab/ML_Notes/blob/master/6-Decision%20Trees.ipynb
 
+    * 7-Cross Validation:<br>
+    https://github.com/daddyjab/ML_Notes/blob/master/7-Cross%20Validation.ipynb
+
+    * 8-Hyper-Parameter Tuning:<br>
+    https://github.com/daddyjab/ML_Notes/blob/master/8-Hyper-Parameter%20Tuning.ipynb
+
+    * 9-Neural Networks:<br>
+    https://github.com/daddyjab/ML_Notes/blob/master/9-Neural%20Networks.ipynb
+
+    * 10-Handwriting Recognition:<br>
+    https://github.com/daddyjab/ML_Notes/blob/master/10-Handwriting%20Recognition.ipynb
+
+# Visualizations
+
 # Visualizations
 
 | Figure: 1-Dataset Generation and Basic Linear Regression - Jupyter Notebook |
